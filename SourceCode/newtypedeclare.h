@@ -1,0 +1,4 @@
+#ifndef NEWTYPEDECLARE_H
+#define NEWTYPEDECLARE_H
+
+#endif // NEWTYPEDECLARE_H
