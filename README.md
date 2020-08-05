@@ -23,12 +23,20 @@
 
 - Project Overview 项目概览
     - GUI Design 交互界面设计
+
         ![GUI](images/GUI.png)
+
     - Source Matches 成功匹配
+
         ![Match](images/Match.png)
+
     - No Match 未找到匹配
+
         ![No Match](images/NoMatch.png)
+
     - Intermediate Results 中间结果
+
         ![Compare](images/Compare.png)
+
 
 - See full [report](Report.pdf)
